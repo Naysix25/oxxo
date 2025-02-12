@@ -1,0 +1,46 @@
+<html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Políticas - OXXO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Políticas</h1>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="mision.html">Misión y Visión</a>
+            <a href="politicas.html">Políticas</a>
+            <a href="contacto.html">Contacto</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Políticas de OXXO</h2>
+        <table>
+            <tr>
+                <th>Política</th>
+                <th>Descripción</th>
+            </tr>
+            <tr>
+                <td>Calidad</td>
+                <td>Garantizamos productos frescos y de alta calidad.</td>
+            </tr>
+            <tr>
+                <td>Servicio</td>
+                <td>Atención rápida y amable en todas nuestras tiendas.</td>
+            </tr>
+            <tr>
+                <td>Sostenibilidad</td>
+                <td>Compromiso con el medio ambiente y la comunidad.</td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 OXXO</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Misión y Visión - OXXO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header><h1>Misión y Visión</h1></header>
+    <section>
+        <h2>Misión</h2>
+        <p>Ofrecer productos de calidad con la mayor conveniencia y cercanía.</p>
+        <h2>Visión</h2>
+        <p>Ser la tienda de conveniencia líder e innovadora en el mercado.</p>
+    </section>
+    <footer><p>&copy; 2025 OXXO</p></footer>
+</body>
+</html>

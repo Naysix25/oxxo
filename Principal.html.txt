@@ -1,0 +1,35 @@
+<htm1>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OXXO - Tienda de Conveniencia</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace a CSS -->
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a OXXO</h1>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="mision.html">Misión y Visión</a>
+            <a href="politicas.html">Políticas</a>
+            <a href="contacto.html">Contacto</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Sobre Nosotros</h2>
+        <p>OXXO es la tienda de conveniencia líder en México...</p>
+        <img src="oxxo.jpg" alt="Tienda OXXO">
+        <br>
+        <a href="https://www.oxxo.com" target="_blank">Visita nuestro sitio oficial</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 OXXO - Todos los derechos reservados</p>
+    </footer>
+<h2>Video Institucional</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tU2LU3YiBAk" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
